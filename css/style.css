@@ -1,0 +1,9 @@
+.box{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 20px;
+}
+.f-height{
+	height: 300px;
+	border: 1px solid black;
+}
